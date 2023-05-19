@@ -1,2 +1,2 @@
 # connect-jenkins
-connecting to the jenkins server
+connecting to the jenkins server for testing
